@@ -4,7 +4,7 @@
   "description": "",
   "main": "nodeServer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node nodeServer.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/skylar80004/webDolarConversion/issues"
   },
-  "homepage": "https://github.com/skylar80004/webDolarConversion#readme"
+  "homepage": "https://github.com/skylar80004/webDolarConversion#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
 }
