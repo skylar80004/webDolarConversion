@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "node app ",
   "main": "nodeServer.js",
-  "start": "node app.js",
+  "scripts": {
+  "start": "node nodeServer.js"
+},
+
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
