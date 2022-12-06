@@ -22,6 +22,6 @@
   "homepage": "https://github.com/skylar80004/webDolarConversion#readme",
   "dependencies": {
     "ejs": "^2.6.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
